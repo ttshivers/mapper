@@ -1,5 +1,29 @@
 
 
+## [8.8.0](https://github.com/ttshivers/mapper/compare/8.7.7...8.8.0) (2023-07-08)
+
+
+### Features
+
+* **core:** add autoMap mapping configuration ([#538](https://github.com/ttshivers/mapper/issues/538)) ([5906add](https://github.com/ttshivers/mapper/commit/5906adddb2bf9a97916e7bbcb789cb4d4ac19b8a))
+* **core:** use model's name on mapping error message ([#518](https://github.com/ttshivers/mapper/issues/518)) ([09bb926](https://github.com/ttshivers/mapper/commit/09bb9264301e72674a37df171976d7dbab374376))
+* **nestjs:** bump nestjs dependencies to v10 ([dac3716](https://github.com/ttshivers/mapper/commit/dac37166c40b57178058bbcadd359b498d973e0b))
+* **nestjs:** target es2021 ([a1166ff](https://github.com/ttshivers/mapper/commit/a1166ff743f7292c1781fad832ed33305c423140))
+* **zod:** init zod ([aa010cd](https://github.com/ttshivers/mapper/commit/aa010cd7a1efee7caee2db193f320c82932781b4))
+
+
+### Bug Fixes
+
+* **classes:** add script to update plugin version for jest ([018c666](https://github.com/ttshivers/mapper/commit/018c6664ee8284513d98d757349e38287e400dfb)), closes [#528](https://github.com/ttshivers/mapper/issues/528)
+* **classes:** clean up transformer plugin to ensure decorator is ignored ([e82e9a1](https://github.com/ttshivers/mapper/commit/e82e9a1c1699ef43d65ad5e93e90e284eeb6825e))
+* **classes:** fixed transformer ttypescript / ts-patch support ([5bb4222](https://github.com/ttshivers/mapper/commit/5bb4222f79ff244dbfbd58461ef5d8c8ed9ee425))
+* **core:** consolidate some logic between forMember and createInitialMapping ([88397b4](https://github.com/ttshivers/mapper/commit/88397b4fe66ff257fc4360054a36ac04515bfdcc))
+
+
+### Documentations
+
+* **core:** adjust documentation ([193d541](https://github.com/ttshivers/mapper/commit/193d541e5d33440bf8de872607bc3e3d04264dfb))
+
 ### [8.7.7](https://github.com/nartc/mapper/compare/8.7.6...8.7.7) (2022-10-25)
 
 
