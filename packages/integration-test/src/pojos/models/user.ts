@@ -1,4 +1,4 @@
-import { PojosMetadataMap } from '@automapper/pojos';
+import { PojosMetadataMap } from '@ttshivers/automapper-pojos';
 import { Bio, PascalBio, SnakeBio } from './bio';
 import { Job, PascalJob, SnakeJob } from './job';
 

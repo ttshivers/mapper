@@ -1,5 +1,5 @@
-import { classes } from '@automapper/classes';
-import { addProfile, createMapper } from '@automapper/core';
+import { classes } from '@ttshivers/automapper-classes';
+import { addProfile, createMapper } from '@ttshivers/automapper-core';
 
 import { DecoratorlessUserDto } from './dtos/decoratorless-user.dto';
 import { DecoratorlessUser } from './models/decoratorless-user';

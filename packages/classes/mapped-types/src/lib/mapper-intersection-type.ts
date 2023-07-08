@@ -1,4 +1,4 @@
-import type { Constructor } from '@automapper/core';
+import type { Constructor } from '@ttshivers/automapper-core';
 import type { MappedType } from './mapped-type';
 import {
     inheritAutoMapMetadata,

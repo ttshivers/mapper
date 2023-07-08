@@ -1,11 +1,11 @@
-import { classes } from '@automapper/classes';
+import { classes } from '@ttshivers/automapper-classes';
 import {
     afterMap,
     createMap,
     createMapper,
     forMember,
     ignore,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { SimpleUserDto } from './dtos/simple-user.dto';
 import { SimpleUser } from './models/simple-user';
 

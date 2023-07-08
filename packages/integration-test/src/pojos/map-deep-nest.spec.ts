@@ -5,8 +5,8 @@ import {
     forMember,
     fromValue,
     SnakeCaseNamingConvention,
-} from '@automapper/core';
-import { pojos, PojosMetadataMap } from '@automapper/pojos';
+} from '@ttshivers/automapper-core';
+import { pojos, PojosMetadataMap } from '@ttshivers/automapper-pojos';
 import {
     createDeepNestDtoMetadata,
     FooBarBazDto,

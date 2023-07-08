@@ -1,4 +1,4 @@
-import { AutoMap } from '@automapper/classes';
+import { AutoMap } from '@ttshivers/automapper-classes';
 import { Bio, PascalBio, SnakeBio } from './bio';
 import { Job, PascalJob, SnakeJob } from './job';
 

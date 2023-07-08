@@ -1,6 +1,6 @@
 ---
 id: "index"
-title: "@automapper/sequelize"
+title: "@ttshivers/automapper-sequelize"
 slug: "/api/sequelize/"
 sidebar_label: "README"
 sidebar_position: 0

@@ -1,9 +1,9 @@
-import { classes } from '@automapper/classes';
+import { classes } from '@ttshivers/automapper-classes';
 import {
     addProfile,
     CamelCaseNamingConvention,
     createMapper,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { map, switchMap, take, timer } from 'rxjs';
 import {
     AccountDTO,

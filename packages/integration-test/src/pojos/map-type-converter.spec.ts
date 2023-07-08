@@ -2,8 +2,8 @@ import {
     addProfile,
     CamelCaseNamingConvention,
     createMapper,
-} from '@automapper/core';
-import { pojos, PojosMetadataMap } from '@automapper/pojos';
+} from '@ttshivers/automapper-core';
+import { pojos, PojosMetadataMap } from '@ttshivers/automapper-pojos';
 import { TypeConverterDto } from './dtos/type-converter.dto';
 import { TypeConverter } from './models/type-converter';
 import { typeConverterProfile } from './profiles/type-converter.profile';

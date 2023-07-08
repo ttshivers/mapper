@@ -4,8 +4,8 @@ import {
     createMapper,
     PascalCaseNamingConvention,
     SnakeCaseNamingConvention,
-} from '@automapper/core';
-import { pojos, PojosMetadataMap } from '@automapper/pojos';
+} from '@ttshivers/automapper-core';
+import { pojos, PojosMetadataMap } from '@ttshivers/automapper-pojos';
 import { PascalUserDto, SnakeUserDto, UserDto } from './dtos/user.dto';
 import { PascalUser, SnakeUser, User } from './models/user';
 import {

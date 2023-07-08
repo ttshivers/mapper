@@ -3,7 +3,7 @@ import type {
     Constructor,
     Dictionary,
     ModelIdentifier,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 
 export type PojoMetadata =
     | Exclude<ModelIdentifier, Constructor>

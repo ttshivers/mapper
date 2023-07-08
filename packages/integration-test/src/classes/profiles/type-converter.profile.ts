@@ -1,4 +1,8 @@
-import { createMap, MappingProfile, typeConverter } from '@automapper/core';
+import {
+    createMap,
+    MappingProfile,
+    typeConverter,
+} from '@ttshivers/automapper-core';
 import { TypeConverterDto } from '../dtos/type-converter.dto';
 import {
     DateString,

@@ -1,5 +1,5 @@
-import type { Mapper, MappingProfile } from '@automapper/core';
-import { AutomapperProfile, InjectMapper } from '@automapper/nestjs';
+import type { Mapper, MappingProfile } from '@ttshivers/automapper-core';
+import { AutomapperProfile, InjectMapper } from '@ttshivers/automapper-nestjs';
 import { Injectable } from '@nestjs/common';
 import { avatarProfile } from '../../classes/profiles/avatar.profile';
 

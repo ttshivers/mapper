@@ -1,4 +1,4 @@
-import { classes } from '@automapper/classes';
+import { classes } from '@ttshivers/automapper-classes';
 import {
     CamelCaseNamingConvention,
     createMap,
@@ -6,7 +6,7 @@ import {
     forMember,
     forSelf,
     fromValue,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { CartItemDto } from './dtos/cart-item.dto';
 import { CartItem, Item } from './models/cart-item';
 

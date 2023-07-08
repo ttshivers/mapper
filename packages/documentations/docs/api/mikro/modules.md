@@ -1,6 +1,6 @@
 ---
 id: "modules"
-title: "@automapper/mikro"
+title: "@ttshivers/automapper-mikro"
 sidebar_label: "Exports"
 sidebar_position: 0.5
 custom_edit_url: null

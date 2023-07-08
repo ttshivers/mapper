@@ -1,7 +1,7 @@
-import { classes } from '@automapper/classes';
-import type { Mapper } from '@automapper/core';
-import { createMapper } from '@automapper/core';
-import { getMapperToken } from '@automapper/nestjs';
+import { classes } from '@ttshivers/automapper-classes';
+import type { Mapper } from '@ttshivers/automapper-core';
+import { createMapper } from '@ttshivers/automapper-core';
+import { getMapperToken } from '@ttshivers/automapper-nestjs';
 import { Test } from '@nestjs/testing';
 import { Bar, Foo, FooDto } from './foo';
 import { FooProfile } from './foo.profile';

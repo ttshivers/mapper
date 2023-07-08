@@ -1,4 +1,4 @@
-import { AUTOMAPPER_METADATA_FACTORY_KEY } from '@automapper/classes';
+import { AUTOMAPPER_METADATA_FACTORY_KEY } from '@ttshivers/automapper-classes';
 import {
     ArrayLiteralExpression,
     ClassDeclaration,

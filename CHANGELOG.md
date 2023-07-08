@@ -474,9 +474,9 @@ Check out the [Migration Guide](https://automapperts.netlify.app/docs/getting-st
 
 ### ⚠ BREAKING CHANGES
 
--   **types:** @automapper/types is removed
+-   **types:** @ttshivers/automapper-types is removed
 
-`@automapper/types` has been removed and the types have been moved to `@automapper/core`. This is to reduce the amount of libraries that the consumers have to install. The types themselves are untouched, you can probably fix this with a simple Find and Replace.
+`@ttshivers/automapper-types` has been removed and the types have been moved to `@ttshivers/automapper-core`. This is to reduce the amount of libraries that the consumers have to install. The types themselves are untouched, you can probably fix this with a simple Find and Replace.
 
 ### Features
 
@@ -489,7 +489,7 @@ Check out the [Migration Guide](https://automapperts.netlify.app/docs/getting-st
 -   **pojos:** use core types ([d601da2](https://github.com/nartc/mapper/commit/d601da205946f20fb880dbb5766cfc38158ca266))
 -   **sequelize:** use core types ([35c28a8](https://github.com/nartc/mapper/commit/35c28a87d73675f550cd9ae13d2ab72d56755cff))
 -   **test:** use core types ([f562ca0](https://github.com/nartc/mapper/commit/f562ca01c9acda2994a2be2ea11fbece62c2785c))
--   **types:** moving types to core to retire @automapper/types ([ccfcf94](https://github.com/nartc/mapper/commit/ccfcf94ef7d8b864f51567db7e9d11b19ddcdc01))
+-   **types:** moving types to core to retire @ttshivers/automapper-types ([ccfcf94](https://github.com/nartc/mapper/commit/ccfcf94ef7d8b864f51567db7e9d11b19ddcdc01))
 
 ### Documentations
 

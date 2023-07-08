@@ -1,5 +1,5 @@
 {
-    "name": "@automapper/classes/mapped-types",
+    "name": "@ttshivers/automapper-classes/mapped-types",
     "version": "0.0.0",
     "type": "module",
     "sideEffects": false,
@@ -7,8 +7,8 @@
         "access": "public"
     },
     "peerDependencies": {
-        "@automapper/core": "latest",
-        "@automapper/classes": "latest"
+        "@ttshivers/automapper-core": "latest",
+        "@ttshivers/automapper-classes": "latest"
     },
     "repository": {
         "type": "git",
