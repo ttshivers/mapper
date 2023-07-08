@@ -1,5 +1,5 @@
-import type { Converter, Mapper } from '@automapper/core';
-import { convertUsing, createMap, forMember } from '@automapper/core';
+import type { Converter, Mapper } from '@ttshivers/automapper-core';
+import { convertUsing, createMap, forMember } from '@ttshivers/automapper-core';
 import {
     BioDto,
     createBioDtoMetadata,

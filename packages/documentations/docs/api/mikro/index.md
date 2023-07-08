@@ -1,6 +1,6 @@
 ---
 id: "index"
-title: "@automapper/mikro"
+title: "@ttshivers/automapper-mikro"
 slug: "/api/mikro/"
 sidebar_label: "README"
 sidebar_position: 0

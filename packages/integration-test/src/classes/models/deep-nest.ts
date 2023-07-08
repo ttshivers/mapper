@@ -1,4 +1,4 @@
-import { AutoMap } from '@automapper/classes';
+import { AutoMap } from '@ttshivers/automapper-classes';
 
 export class FooFooFoo {
     @AutoMap()

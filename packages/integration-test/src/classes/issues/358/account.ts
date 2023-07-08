@@ -1,5 +1,5 @@
-import { AutoMap } from '@automapper/classes';
-import { createMap, MappingProfile } from '@automapper/core';
+import { AutoMap } from '@ttshivers/automapper-classes';
+import { createMap, MappingProfile } from '@ttshivers/automapper-core';
 
 export enum AccountRole {
     Foo = 'foo',

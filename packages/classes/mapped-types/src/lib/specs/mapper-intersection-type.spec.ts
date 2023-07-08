@@ -1,6 +1,6 @@
-import { AutoMap, classes } from '@automapper/classes';
-import type { Mapper } from '@automapper/core';
-import { createMap, createMapper } from '@automapper/core';
+import { AutoMap, classes } from '@ttshivers/automapper-classes';
+import type { Mapper } from '@ttshivers/automapper-core';
+import { createMap, createMapper } from '@ttshivers/automapper-core';
 import { MapperIntersectionType } from '../mapper-intersection-type';
 
 describe(MapperIntersectionType.name, () => {

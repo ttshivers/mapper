@@ -1,5 +1,9 @@
-import { AutoMap, classes } from '@automapper/classes';
-import { createMap, createMapper, typeConverter } from '@automapper/core';
+import { AutoMap, classes } from '@ttshivers/automapper-classes';
+import {
+    createMap,
+    createMapper,
+    typeConverter,
+} from '@ttshivers/automapper-core';
 
 export class SlippageDetails {
     @AutoMap()

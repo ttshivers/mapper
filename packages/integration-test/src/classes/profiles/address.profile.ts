@@ -1,5 +1,5 @@
-import type { Mapper } from '@automapper/core';
-import { createMap, forMember, mapFrom } from '@automapper/core';
+import type { Mapper } from '@ttshivers/automapper-core';
+import { createMap, forMember, mapFrom } from '@ttshivers/automapper-core';
 import {
     AddressDto,
     PascalAddressDto,

@@ -1,41 +1,41 @@
-# @automapper/pojos
+# @ttshivers/automapper-pojos
 
 This is the official strategy from `@automapper` to work with Interfaces/Types along with Plain Objects
 
 ## Installation
 
 ```sh
-npm i @automapper/pojos
+npm i @ttshivers/automapper-pojos
 ```
 
 or with `yarn`:
 
 ```sh
-yarn add @automapper/pojos
+yarn add @ttshivers/automapper-pojos
 ```
 
 #### `peerDependencies`
 
-`@automapper/pojos` depends on `@automapper/core`
+`@ttshivers/automapper-pojos` depends on `@ttshivers/automapper-core`
 
 ```sh
-npm i @automapper/core
+npm i @ttshivers/automapper-core
 ```
 
 or with `yarn`:
 
 ```sh
-yarn add @automapper/core
+yarn add @ttshivers/automapper-core
 ```
 
 ## Usage
 
-`@automapper/pojos` provides `pojos` as a `MappingStrategyInitializer`. Pass `pojos()` to `createMapper` to create a `Mapper`
+`@ttshivers/automapper-pojos` provides `pojos` as a `MappingStrategyInitializer`. Pass `pojos()` to `createMapper` to create a `Mapper`
 that uses `pojos` strategy.
 
 ```ts
-import { pojos, PojosMetadataMap } from '@automapper/pojos';
-import { createMapper, createMap, forMember, mapFrom } from '@automapper/core';
+import { pojos, PojosMetadataMap } from '@ttshivers/automapper-pojos';
+import { createMapper, createMap, forMember, mapFrom } from '@ttshivers/automapper-core';
 
 const mapper = createMapper({
   ...,

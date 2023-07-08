@@ -1,9 +1,9 @@
-import { classes } from '@automapper/classes';
+import { classes } from '@ttshivers/automapper-classes';
 import {
     CamelCaseNamingConvention,
     createMap,
     createMapper,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { Customer, Order, Product } from './order';
 import { OrderDto } from './order.dto';
 

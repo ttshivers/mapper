@@ -1,4 +1,4 @@
-import { AutoMap } from '@automapper/classes';
+import { AutoMap } from '@ttshivers/automapper-classes';
 import { Address, PascalAddress, SnakeAddress } from './address';
 import { Avatar, PascalAvatar, SnakeAvatar } from './avatar';
 

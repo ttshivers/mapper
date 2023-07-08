@@ -1,4 +1,4 @@
-import { AutoMap } from '@automapper/classes';
+import { AutoMap } from '@ttshivers/automapper-classes';
 import { BioDto, PascalBioDto, SnakeBioDto } from './bio.dto';
 
 export class UserDto {

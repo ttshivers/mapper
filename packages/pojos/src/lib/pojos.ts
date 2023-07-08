@@ -4,7 +4,7 @@ import {
     MappingStrategyInitializer,
     MappingStrategyInitializerOptions,
     MetadataList,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { PojosMetadataMap } from './metadata-map';
 
 export function pojos(

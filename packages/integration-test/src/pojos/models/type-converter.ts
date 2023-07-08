@@ -1,4 +1,4 @@
-import { PojosMetadataMap } from '@automapper/pojos';
+import { PojosMetadataMap } from '@ttshivers/automapper-pojos';
 
 export interface TypeConverter {
     value1: string;

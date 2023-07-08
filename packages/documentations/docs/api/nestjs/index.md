@@ -1,40 +1,40 @@
 ---
 id: "index"
-title: "@automapper/nestjs"
+title: "@ttshivers/automapper-nestjs"
 slug: "/api/nestjs/"
 sidebar_label: "README"
 sidebar_position: 0
 custom_edit_url: null
 ---
 
-# @automapper/nestjs
+# @ttshivers/automapper-nestjs
 
 This is a NestJS module to integrate `@automapper` with NestJS.
 
 ## Installation
 
 ```sh
-npm i @automapper/nestjs
+npm i @ttshivers/automapper-nestjs
 ```
 
 or with `yarn`:
 
 ```sh
-yarn add @automapper/nestjs
+yarn add @ttshivers/automapper-nestjs
 ```
 
 #### `peerDependencies`
 
-`@automapper/nestjs` depends on `@automapper/core`
+`@ttshivers/automapper-nestjs` depends on `@ttshivers/automapper-core`
 
 ```sh
-npm i @automapper/core
+npm i @ttshivers/automapper-core
 ```
 
 or with `yarn`:
 
 ```sh
-yarn add @automapper/core
+yarn add @ttshivers/automapper-core
 ```
 
 ## Usage

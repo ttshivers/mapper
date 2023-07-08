@@ -1,4 +1,4 @@
-import { AutoMap, classes } from '@automapper/classes';
+import { AutoMap, classes } from '@ttshivers/automapper-classes';
 import {
     CamelCaseNamingConvention,
     constructUsing,
@@ -6,7 +6,7 @@ import {
     createMapper,
     forMember,
     mapFrom,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 
 describe('Map - Chained Mapping', () => {
     const mapper = createMapper({

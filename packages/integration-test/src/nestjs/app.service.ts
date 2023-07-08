@@ -1,5 +1,5 @@
-import type { Mapper } from '@automapper/core';
-import { InjectMapper } from '@automapper/nestjs';
+import type { Mapper } from '@ttshivers/automapper-core';
+import { InjectMapper } from '@ttshivers/automapper-nestjs';
 import { Injectable } from '@nestjs/common';
 import { UserDto } from '../classes/dtos/user.dto';
 import { User } from '../classes/models/user';

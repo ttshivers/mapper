@@ -72,12 +72,12 @@ body:
       description: "Which package do **you think** your issue is related to?"
       options:
         - label: "I don't know."
-        - label: "<code>@automapper/core</code>"
-        - label: "<code>@automapper/classes</code>"
-        - label: "<code>@automapper/nestjs</code>"
-        - label: "<code>@automapper/pojos</code>"
-        - label: "<code>@automapper/mikro</code>"
-        - label: "<code>@automapper/sequelize</code>"
+        - label: "<code>@ttshivers/automapper-core</code>"
+        - label: "<code>@ttshivers/automapper-classes</code>"
+        - label: "<code>@ttshivers/automapper-nestjs</code>"
+        - label: "<code>@ttshivers/automapper-pojos</code>"
+        - label: "<code>@ttshivers/automapper-mikro</code>"
+        - label: "<code>@ttshivers/automapper-sequelize</code>"
         - label: "Other (see below)"
 
   - type: input
@@ -92,7 +92,7 @@ body:
       required: true
     attributes:
       label: "AutoMapper version"
-      description: "Which version of `@automapper/*` (the ones you've selected above) are you using?"
+      description: "Which version of `@ttshivers/automapper-*` (the ones you've selected above) are you using?"
       value: "8.0.0"
 
   - type: textarea

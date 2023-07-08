@@ -1,6 +1,6 @@
-import type { Mapper, MappingProfile } from '@automapper/core';
-import { createMap, extend } from '@automapper/core';
-import { AutomapperProfile, InjectMapper } from '@automapper/nestjs';
+import type { Mapper, MappingProfile } from '@ttshivers/automapper-core';
+import { createMap, extend } from '@ttshivers/automapper-core';
+import { AutomapperProfile, InjectMapper } from '@ttshivers/automapper-nestjs';
 import { Injectable } from '@nestjs/common';
 import { Foo, FooDto } from '../foo/foo';
 import { FooExtend, FooExtendDto } from './foo-extend';

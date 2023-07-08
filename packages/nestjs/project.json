@@ -19,7 +19,7 @@
                 "external": [
                     "typescript",
                     "tslib",
-                    "@automapper/core",
+                    "@ttshivers/automapper-core",
                     "@nestjs/common",
                     "rxjs"
                 ],

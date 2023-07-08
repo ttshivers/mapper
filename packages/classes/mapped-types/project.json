@@ -19,8 +19,8 @@
                 "external": [
                     "typescript",
                     "tslib",
-                    "@automapper/core",
-                    "@automapper/classes"
+                    "@ttshivers/automapper-core",
+                    "@ttshivers/automapper-classes"
                 ],
                 "format": ["cjs", "esm"],
                 "updateBuildableProjectDepsInPackageJson": false

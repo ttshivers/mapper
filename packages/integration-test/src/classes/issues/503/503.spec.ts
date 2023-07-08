@@ -1,4 +1,4 @@
-import { AutoMap, classes } from '@automapper/classes';
+import { AutoMap, classes } from '@ttshivers/automapper-classes';
 import {
     CamelCaseNamingConvention,
     createMap,
@@ -6,7 +6,7 @@ import {
     extend,
     forMember,
     nullSubstitution,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 
 export class Source {
     @AutoMap(() => String)

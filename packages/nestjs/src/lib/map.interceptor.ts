@@ -3,7 +3,7 @@ import type {
     MapOptions,
     Mapper,
     ModelIdentifier,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import type {
     CallHandler,
     ExecutionContext,

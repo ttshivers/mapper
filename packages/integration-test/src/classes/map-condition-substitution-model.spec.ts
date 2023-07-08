@@ -1,4 +1,4 @@
-import { AutoMap, classes } from '@automapper/classes';
+import { AutoMap, classes } from '@ttshivers/automapper-classes';
 import {
     condition,
     createMap,
@@ -6,7 +6,7 @@ import {
     forMember,
     nullSubstitution,
     undefinedSubstitution,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 
 describe('Map - Condition/Substitutions with Models', () => {
     class Foo {}

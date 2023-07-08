@@ -1,4 +1,4 @@
-import type { Mapper } from '@automapper/core';
+import type { Mapper } from '@ttshivers/automapper-core';
 import {
     condition,
     createMap,
@@ -7,7 +7,7 @@ import {
     mapFrom,
     nullSubstitution,
     preCondition,
-} from '@automapper/core';
+} from '@ttshivers/automapper-core';
 import { AvatarDto, PascalAvatarDto, SnakeAvatarDto } from '../dtos/avatar.dto';
 import { Avatar, PascalAvatar, SnakeAvatar } from '../models/avatar';
 
