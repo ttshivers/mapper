@@ -1,5 +1,7 @@
 
 
+### [8.8.1](https://github.com/ttshivers/mapper/compare/8.8.0...8.8.1) (2023-07-21)
+
 ## [8.8.0](https://github.com/ttshivers/mapper/compare/8.7.7...8.8.0) (2023-07-08)
 
 
