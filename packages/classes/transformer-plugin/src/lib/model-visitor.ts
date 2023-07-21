@@ -41,6 +41,7 @@ import {
     isNullableUnionType,
     replaceImportPath,
 } from './utils';
+import * as ts from 'typescript/lib/tsserverlibrary';
 
 export class ModelVisitor {
     private static readonly metadataMap = new Map<
@@ -68,8 +69,8 @@ export class ModelVisitor {
         function nodeVisitorFactory(
             ctx: TransformationContext,
             sf: SourceFile
-        ): Visitor {
-            const nodeVisitor: Visitor = (node) => {
+        ): Visitor<ts.Node, ts.Node> {
+            const nodeVisitor: Visitor<ts.Node, ts.Node> = (node: ts.Node) => {
                 // if there is import, save the cloned in our importsMap for the file
                 if (isImportDeclaration(node)) {
                     ModelVisitor.importsMap.set(
@@ -152,9 +153,10 @@ export class ModelVisitor {
             return nodeVisitor;
         }
 
-        const visitedSourceFile = visitNode(
+        const visitedSourceFile = visitNode<SourceFile, ts.Node, SourceFile>(
             sourceFile,
-            nodeVisitorFactory(context, sourceFile)
+            nodeVisitorFactory(context, sourceFile),
+            ts.isSourceFile
         );
 
         // if the target is CommonJS, keep as is
