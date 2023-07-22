@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[lib/types.ts:274](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L274)
+[lib/types.ts:274](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L274)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:275](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L275)
+[lib/types.ts:275](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L275)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:278](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L278)
+[lib/types.ts:278](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L278)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:279](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L279)
+[lib/types.ts:279](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L279)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:277](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L277)
+[lib/types.ts:277](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L277)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:288](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L288)
+[lib/types.ts:288](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L288)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:287](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L287)
+[lib/types.ts:287](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L287)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:286](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L286)
+[lib/types.ts:286](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L286)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:276](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L276)
+[lib/types.ts:276](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L276)
 
 ## Methods
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:272](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L272)
+[lib/types.ts:272](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L272)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:144](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L144)
+[lib/types.ts:144](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L144)
 
 ▸ **map**<`TSource`\>(`sourceObject`, `identifier`, `options?`): `TSource`
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:153](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L153)
+[lib/types.ts:153](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L153)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:174](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L174)
+[lib/types.ts:174](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L174)
 
 ▸ **mapArray**<`TSource`\>(`sourceArray`, `identifier`, `options?`): `TSource`[]
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:183](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L183)
+[lib/types.ts:183](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L183)
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:189](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L189)
+[lib/types.ts:189](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L189)
 
 ▸ **mapArrayAsync**<`TSource`\>(`sourceArray`, `identifier`, `options?`): `Promise`<`TSource`[]\>
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:198](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L198)
+[lib/types.ts:198](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L198)
 
 ___
 
@@ -300,7 +300,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:159](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L159)
+[lib/types.ts:159](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L159)
 
 ▸ **mapAsync**<`TSource`\>(`sourceObject`, `identifier`, `options?`): `Promise`<`TSource`\>
 
@@ -324,7 +324,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:168](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L168)
+[lib/types.ts:168](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L168)
 
 ___
 
@@ -355,7 +355,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:204](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L204)
+[lib/types.ts:204](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L204)
 
 ▸ **mutate**<`TSource`\>(`sourceObject`, `destinationObject`, `identifier`, `options?`): `void`
 
@@ -380,7 +380,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:214](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L214)
+[lib/types.ts:214](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L214)
 
 ___
 
@@ -411,7 +411,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:238](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L238)
+[lib/types.ts:238](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L238)
 
 ▸ **mutateArray**<`TSource`\>(`sourceArray`, `destinationArray`, `identifier`, `options?`): `void`
 
@@ -436,7 +436,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:248](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L248)
+[lib/types.ts:248](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L248)
 
 ___
 
@@ -467,7 +467,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:255](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L255)
+[lib/types.ts:255](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L255)
 
 ▸ **mutateArrayAsync**<`TSource`\>(`sourceArray`, `destinationArray`, `identifier`, `options?`): `Promise`<`void`\>
 
@@ -492,7 +492,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:265](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L265)
+[lib/types.ts:265](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L265)
 
 ___
 
@@ -523,7 +523,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:221](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L221)
+[lib/types.ts:221](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L221)
 
 ▸ **mutateAsync**<`TSource`\>(`sourceObject`, `destinationObject`, `identifier`, `options?`): `Promise`<`void`\>
 
@@ -548,4 +548,4 @@ ___
 
 #### Defined in
 
-[lib/types.ts:231](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L231)
+[lib/types.ts:231](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L231)

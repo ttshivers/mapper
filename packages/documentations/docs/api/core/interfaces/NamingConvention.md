@@ -20,7 +20,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[lib/types.ts:55](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L55)
+[lib/types.ts:55](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L55)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:54](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L54)
+[lib/types.ts:54](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L54)
 
 ## Methods
 
@@ -50,4 +50,4 @@ ___
 
 #### Defined in
 
-[lib/types.ts:56](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L56)
+[lib/types.ts:56](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L56)

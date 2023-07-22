@@ -42,12 +42,12 @@ const config = {
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
                     editUrl:
-                        'https://github.com/nartc/mapper/tree/main/packages/documentation',
+                        'https://github.com/ttshivers/mapper/tree/main/packages/documentation',
                 },
                 blog: {
                     showReadingTime: true,
                     editUrl:
-                        'https://github.com/nartc/mapper/tree/main/packages/documentation',
+                        'https://github.com/ttshivers/mapper/tree/main/packages/documentation',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -87,7 +87,7 @@ const config = {
                     // },
                     // { to: '/blog', label: 'Blog', position: 'left' },
                     {
-                        href: 'https://github.com/nartc/mapper',
+                        href: 'https://github.com/ttshivers/mapper',
                         label: 'GitHub',
                         position: 'right',
                     },

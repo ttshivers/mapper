@@ -22,7 +22,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[lib/types.ts:112](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L112)
+[lib/types.ts:112](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L112)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:111](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L111)
+[lib/types.ts:111](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L111)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[lib/types.ts:113](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L113)
+[lib/types.ts:113](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L113)
 
 ## Methods
 
@@ -63,4 +63,4 @@ ___
 
 #### Defined in
 
-[lib/types.ts:114](https://github.com/nartc/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L114)
+[lib/types.ts:114](https://github.com/ttshivers/mapper/blob/efc4cb9d/packages/core/src/lib/types.ts#L114)

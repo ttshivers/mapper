@@ -38,7 +38,7 @@ See [Documentations](https://automapperts.netlify.app)
 
 ## Miscellaneous
 
-`@ttshivers/automapper-*` is a later iteration of the legacy `@nartc/automapper`. `@nartc/automapper` is archived and is placed in this repo under [legacy branch](https://github.com/nartc/mapper/tree/legacy)
+`@ttshivers/automapper-*` is a later iteration of the legacy `@nartc/automapper`. `@nartc/automapper` is archived and is placed in this repo under [legacy branch](https://github.com/ttshivers/mapper/tree/legacy)
 
 ## Contributors ✨
 
@@ -49,20 +49,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://nartc.me/"><img src="https://avatars1.githubusercontent.com/u/25516557?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Chau Tran</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=nartc" title="Code">💻</a> <a href="#ideas-nartc" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/micalevisk"><img src="https://avatars.githubusercontent.com/u/13461315?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Micael Levi L. Cavalcante</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=micalevisk" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/AliYusuf95"><img src="https://avatars.githubusercontent.com/u/17704100?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Ali Yusuf</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=AliYusuf95" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/robsonhermes"><img src="https://avatars.githubusercontent.com/u/26451017?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Robson Hermes</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=robsonhermes" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/huybn5776"><img src="https://avatars.githubusercontent.com/u/6702287?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Huybn</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=huybn5776" title="Code">💻</a></td>
-    <td align="center"><a href="http://jasonmerino.me/"><img src="https://avatars.githubusercontent.com/u/1660279?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Jason Merino</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=jasonmerino" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/roblopz"><img src="https://avatars.githubusercontent.com/u/48892593?v=4?s=75" width="75px;" alt=""/><br /><sub><b>roblopz</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=roblopz" title="Code">💻</a> <a href="https://github.com/nartc/mapper/issues?q=author%3Aroblopz" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://nartc.me/"><img src="https://avatars1.githubusercontent.com/u/25516557?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Chau Tran</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=nartc" title="Code">💻</a> <a href="#ideas-nartc" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/micalevisk"><img src="https://avatars.githubusercontent.com/u/13461315?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Micael Levi L. Cavalcante</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=micalevisk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AliYusuf95"><img src="https://avatars.githubusercontent.com/u/17704100?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Ali Yusuf</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=AliYusuf95" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/robsonhermes"><img src="https://avatars.githubusercontent.com/u/26451017?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Robson Hermes</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=robsonhermes" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/huybn5776"><img src="https://avatars.githubusercontent.com/u/6702287?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Huybn</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=huybn5776" title="Code">💻</a></td>
+    <td align="center"><a href="http://jasonmerino.me/"><img src="https://avatars.githubusercontent.com/u/1660279?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Jason Merino</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=jasonmerino" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/roblopz"><img src="https://avatars.githubusercontent.com/u/48892593?v=4?s=75" width="75px;" alt=""/><br /><sub><b>roblopz</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=roblopz" title="Code">💻</a> <a href="https://github.com/ttshivers/mapper/issues?q=author%3Aroblopz" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/LennartH"><img src="https://avatars.githubusercontent.com/u/902689?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Lennart Hensler</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=LennartH" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jmplahitko"><img src="https://avatars.githubusercontent.com/u/3401828?v=4?s=75" width="75px;" alt=""/><br /><sub><b>jmplahitko</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=jmplahitko" title="Code">💻</a></td>
-    <td align="center"><a href="https://hoadev.com/"><img src="https://avatars.githubusercontent.com/u/376698?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Hoa Truong</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=hoa00" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://www.vincent-p.fr/"><img src="https://avatars.githubusercontent.com/u/6575007?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Vincent Pecquerie</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=VPecquerie" title="Code">💻</a></td>
-    <td align="center"><a href="https://alwinschuster.at/"><img src="https://avatars.githubusercontent.com/u/39517491?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Alwin J. Schuster</b></sub></a><br /><a href="https://github.com/nartc/mapper/commits?author=Alwinator" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/LennartH"><img src="https://avatars.githubusercontent.com/u/902689?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Lennart Hensler</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=LennartH" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jmplahitko"><img src="https://avatars.githubusercontent.com/u/3401828?v=4?s=75" width="75px;" alt=""/><br /><sub><b>jmplahitko</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=jmplahitko" title="Code">💻</a></td>
+    <td align="center"><a href="https://hoadev.com/"><img src="https://avatars.githubusercontent.com/u/376698?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Hoa Truong</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=hoa00" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.vincent-p.fr/"><img src="https://avatars.githubusercontent.com/u/6575007?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Vincent Pecquerie</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=VPecquerie" title="Code">💻</a></td>
+    <td align="center"><a href="https://alwinschuster.at/"><img src="https://avatars.githubusercontent.com/u/39517491?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Alwin J. Schuster</b></sub></a><br /><a href="https://github.com/ttshivers/mapper/commits?author=Alwinator" title="Code">💻</a></td>
   </tr>
 </table>
 
