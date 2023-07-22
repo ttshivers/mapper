@@ -1,5 +1,12 @@
 
 
+### [8.8.2](https://github.com/ttshivers/mapper/compare/8.8.1...8.8.2) (2023-07-22)
+
+
+### Bug Fixes
+
+* fix package exports ([789fc82](https://github.com/ttshivers/mapper/commit/789fc823933be60413aa49b748573905877ec996))
+
 ### [8.8.1](https://github.com/ttshivers/mapper/compare/8.8.0...8.8.1) (2023-07-21)
 
 ## [8.8.0](https://github.com/ttshivers/mapper/compare/8.7.7...8.8.0) (2023-07-08)
