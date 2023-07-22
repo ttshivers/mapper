@@ -7,8 +7,8 @@
         "reflect-metadata": "~0.1.13"
     },
     "exports": {
-        "./": {
-            "types": "./src/index.d.ts",
+        ".": {
+            "types": "./index.d.ts",
             "import": "./index.js",
             "require": "./index.cjs"
         },
